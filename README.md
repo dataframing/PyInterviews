@@ -3,4 +3,17 @@ Hi there! My name is Danny Vilela and I'm a sophomore at NYU studying computer s
 
 That said, the shorter, cooler README is something like: "Reading books. Solving problems. Python."
 
+Here's the directory breakdown:
+
+## Challenges
+These are questions I've been asked as "screening" questions, usually over email and before any phone calls. I've done my best to
+anonymize the actual companies that gave me these challenges.
+
+## InterviewQ
+These are questions I've been asked during interviews -- whether they're on the phone or onsite. Again, I've done what I can to
+anonymize the actual companies involved.
+
+## Books
+This'll be a directory of books that I'll (eventually) read and implement solutions in Python.
+
 Thanks!
