@@ -37,7 +37,7 @@ def pairs(a, k):
 	n_dict = {index : 0 for throwaway, index in enumerate(a)}
 
 	# Determine whether value + k is also in the dictionary
-    # If so, increment answer
+  # If so, increment answer
 	for value in n_dict:
 		if value + k in n_dict:
 			answer += 1
