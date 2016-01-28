@@ -36,7 +36,7 @@ def pairs(a, k):
 	# Load values from list a to dictionary n_dict
 	n_dict = {index : 0 for throwaway, index in enumerate(a)}
 
-	# Determine whether value + k is also in the dictionary
+  # Determine whether value + k is also in the dictionary
   # If so, increment answer
 	for value in n_dict:
 		if value + k in n_dict:
